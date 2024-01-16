@@ -27,3 +27,7 @@ print(x/y)
 print(x//y) #Floor Division
 
 print(x % y) #Modulas
+
+a = 1234.4567
+
+round(a,3)
