@@ -20,3 +20,9 @@ def happy_birthday(name):
     print(f"Happy Birthday {name} !")
 
 happy_birthday("Sue")
+
+def happy_birthday(name = "Human"):
+    print(f"Happy Birthday {name} !")
+
+happy_birthday("Sue")
+happy_birthday()
